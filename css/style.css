@@ -1,11 +1,21 @@
+ul.nav a:hover { color: black !important; }
+
+a:link {
+    color: #7F7F7F;
+}
+
+a:visited {
+    color: black;
+}
+
+a:hover {
+    color: #ADFFF3;
+}
+
 .carousel-inner > .item > img{
        width:100%;
        height:360px;
      }
-
-body { 
-    padding-top: 70px; 
-}
 
 #narociSe {
     padding: 10px;
