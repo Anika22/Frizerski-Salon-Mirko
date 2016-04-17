@@ -1,0 +1,39 @@
+.carousel-inner > .item > img{
+       width:100%;
+       height:360px;
+     }
+
+body { 
+    padding-top: 70px; 
+}
+
+#narociSe {
+    padding: 10px;
+}
+
+h4 {
+    text-align:center;
+    margin:0px auto;
+}
+
+body { 
+    padding-bottom: 27em; 
+}
+
+#slikica {
+    width: 140px;
+    margin-top: 1em;
+}
+
+.footer {
+    font-size: 0.7em;
+}
+
+.desno {
+    float: right;
+}
+
+.slikaNudimo {
+    width: 27em;
+   
+}
